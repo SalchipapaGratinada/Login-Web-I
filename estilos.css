@@ -1,0 +1,24 @@
+h1, h3{
+    text-align: center;
+    color: brown;
+}
+
+#edad, #hijos, #experiencia{
+    width: 50px;
+}
+
+footer{
+    text-align: center;
+}
+
+#parent{
+    text-align: center;
+}
+
+.diligenciacionDeDatos{
+    text-align: center;
+    padding: 30px;
+    border: PowderBlue 5px solid;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
